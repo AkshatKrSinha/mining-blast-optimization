@@ -1,2 +1,2 @@
 # mining-blast-optimization
-FYP - AI supported Blast-Design Optimization
+FYP - AI/ML supported Blast-Design Optimization
